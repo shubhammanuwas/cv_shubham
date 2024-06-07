@@ -22,41 +22,41 @@ import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 export const RESUME_DATA = {
   name: "Shubham",
   initials: "BJ",
-  location: "Wrocław, Poland, CET",
-  locationLink: "https://www.google.com/maps/place/Wrocław",
+  location: "Gurgaon, Haryana, India",
+  locationLink: "https://maps.app.goo.gl/fm8kpYSb12j18Ade6",
   about:
     "Full Stack Engineer focused on building products with extra attention to detail",
   summary:
-    "As a Full Stack Engineer, I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, React, Node.js, and GraphQL. I have over 8 years of experience in working remotely with companies all around the world.",
+    "As a recent graduate specializing in full stack development, I am enthusiastic about leveraging my skills to bring new products to life. I have hands-on experience with React for building dynamic user interfaces, MongoDB for database management, Firebase for backend development, and Flutter for cross-platform mobile app development. I am passionate about leading teams and fostering environments where creativity thrives. Additionally, I am proficient in using Figma for UI/UX design. Recently, I've been exploring LiveKit to expand my knowledge and capabilities.",
   avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
   personalWebsiteUrl: "https://jarocki.me",
   contact: {
-    email: "bartosz.jarocki@hey.com",
-    tel: "+48530213401",
+    email: "shubham.manuwas2@gmail.com",
+    tel: "+919958098940",
     social: [
       {
         name: "GitHub",
-        url: "https://github.com/BartoszJarocki",
+        url: "https://github.com/shubhammanuwas",
         icon: GitHubIcon,
       },
       {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/bjarocki/",
+        url: "https://www.linkedin.com/in/shubhammanuwas",
         icon: LinkedInIcon,
       },
       {
         name: "X",
-        url: "https://x.com/BartoszJarocki",
+        url: "https://x.com/shubhammanuwas",
         icon: XIcon,
       },
     ],
   },
   education: [
     {
-      school: "Wrocław University of Technology",
-      degree: "Bachelor's Degree in Control systems engineering and Robotics",
-      start: "2007",
-      end: "2010",
+      school: "The Northcap University",
+      degree: "Bachelor's Degree in Computer Science and Engineering",
+      start: "2020",
+      end: "2024",
     },
   ],
   work: [
